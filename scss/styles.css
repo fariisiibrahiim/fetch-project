@@ -1,0 +1,25 @@
+.follower-link a:link {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.follower-link a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+.follower-link a:hover {
+  color: orange;
+  text-decoration: none;
+}
+
+.follower-link a:active {
+  color: blue;
+}
+
+.card {
+  min-height: 95%;
+}
+/*# sourceMappingURL=styles.css.map */
